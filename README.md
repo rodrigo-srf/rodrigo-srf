@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m @RodrigoSFS07  
+👋 Hi, I’m @rodrigo-srf
 👀 I’m interested in data science, machine learning, and software development.  
 🌱 I’m currently learning advanced techniques in deep learning.  
 💞️ I’m looking to collaborate on projects related to predictive analytics and AI.  
