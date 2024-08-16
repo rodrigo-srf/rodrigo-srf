@@ -7,9 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-SRF&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodrigo-SRF&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Gráfico de contribuições ao longo do tempo -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-SRF&theme=dracula&hide_border=true" alt="Rodrigo Serafim's Streak Stats" />
+</div>
 
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Rodrigo-SRF&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
