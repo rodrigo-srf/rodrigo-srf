@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rodrigo+Serafim;I'm+23+years+old;I+am+from+João+Pessoa,+PB;I'm+studying+Automation+at+IFPB+with+TI+focus.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-SRF&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Serafim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-SRF&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-SRF&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="Rodrigo Serafim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-SRF&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
 </div>
 
 <!-- Gráfico de contribuições ao longo do tempo -->
@@ -21,36 +21,37 @@
 </div> 
 
 ### Main skills:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&labelColor=000000&textColor=00bfbf)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&labelColor=000000&textColor=00bfbf)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&labelColor=000000&textColor=00bfbf)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000&textColor=00bfbf)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=000000&textColor=00bfbf)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=000000&textColor=00bfbf)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&labelColor=000000&textColor=00bfbf)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&labelColor=000000&textColor=00bfbf)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&labelColor=000000&textColor=00bfbf)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&textColor=00bfbf)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&labelColor=000000&textColor=00bfbf)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000&textColor=00bfbf)&nbsp;
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=000000&textColor=00bfbf)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=000000&textColor=00bfbf)&nbsp;
+![Atom](https://img.shields.io/badge/-Atom-000000?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=000000&textColor=00bfbf)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000&textColor=00bfbf)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000&textColor=00bfbf)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&labelColor=000000&textColor=00bfbf)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000000?style=for-the-badge&logo=microsoft-office&labelColor=000000&textColor=00bfbf)&nbsp;
 
 ### Other Knowledge:
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-Handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&labelColor=000000&textColor=00bfbf)&nbsp;
+![Handlebars](https://img.shields.io/badge/-Handlebars-000000?style=for-the-badge&logo=handlebars&labelColor=000000&textColor=00bfbf)&nbsp;
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
-![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=for-the-badge&logo=devops&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=000000&textColor=00bfbf)&nbsp;
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&labelColor=000000&textColor=00bfbf)&nbsp;
+![DevOps](https://img.shields.io/badge/-DevOps-000000?style=for-the-badge&logo=devops&labelColor=000000&textColor=00bfbf)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-000000?style=for-the-badge&logo=mlflow&labelColor=000000&textColor=00bfbf)&nbsp;
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
