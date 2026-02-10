@@ -1,59 +1,89 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rodrigo%20Serafim&fontSize=60&animation=fadeIn&fontAlignY=35"/>
-
-  ### 🎓 M.Sc. Student in Electrical Engineering | ⚙️ Industrial Automation Technologist | 💻 Backend Developer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-srf/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoserafimfsilva@gmail.com)
-</div>
+<!-- título -->
+<h1 align="center">Rodrigo Serafim</h1>
+<h3 align="center">Python Backend Developer | IoT Systems | Electrical Engineering</h3>
 
 ---
 
-## 🚀 Professional Profile
+## 👋 About me
 
-Hello! I'm Rodrigo. My work focuses on the convergence of **Industrial Hardware** and **Software Intelligence**.
+Hi! I'm Rodrigo, a technologist in Automation Industrial Engineering and a master's student in Electrical Engineering from Brazil.
 
-* 🔭 **Current Research:** Intelligent monitoring systems and Digital Speech Signal Processing (DSSP).
-* 🎓 **Education:** Master’s student in Electrical Engineering and degree in Industrial Automation Technology.
-* 🏆 **Achievement:** 3rd Place Regional Winner - Huawei ICT Competition (Big Data Track).
-* 💻 **Focus:** Backend Development, IoT, and Embedded Systems.
+I work with **Python backend development, IoT systems, and sensor data integration**, combining software and hardware to build real-world monitoring solutions.
 
----
+My background includes:
+- Industrial Automation
+- Embedded systems (ESP32)
+- REST APIs
+- MQTT communication
+- Sensor data monitoring systems
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,mysql,nodejs,express,react,bootstrap,docker,git,vscode,linux" />
-</div>
-
-<br/>
-
-| Category | Technical Description |
-| :--- | :--- |
-| **Languages** | `C`, `C++`, `Java`, `Python`, `JavaScript`, `SQL` |
-| **Backend** | `Node.js`, `APIs`, `MySQL`, `Systems Integration` |
-| **Automation** | `ESP32`, `Sensors`, `IoT`, `Embedded Systems` |
-| **Others** | `Big Data`, `Docker`, `Git`, `Linux` |
+I’m currently focused on **backend development with Python and IoT applications**.
 
 ---
 
-## 🧠 Areas of Interest
-
-* **Internet of Things (IoT):** Connectivity and remote monitoring.
-* **Intelligent Systems:** Algorithm application for signal analysis.
-* **Industrial Automation:** Process optimization and mission-critical systems.
-
----
-
-## 📁 Projects & Repositories
-
-> [!TIP]
-> Check out my main DSSP and Automation repositories pinned below! 👇
+## 🚀 Current Focus
+- Backend development with Python
+- IoT monitoring systems
+- REST APIs with FastAPI
+- Sensor data pipelines
+- Dockerized applications
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
-  <br/>
-  <sub>"Transforming signals into data, and data into decisions."</sub>
-</div>
+## 🧠 Tech Stack
+
+### Languages
+Python • C/C++ • SQL
+
+### Backend
+FastAPI • REST APIs • MySQL • PostgreSQL
+
+### IoT & Embedded
+ESP32 • Sensors • MQTT • Embedded Systems
+
+### Tools
+Git • Docker • Linux
+
+---
+
+## 📂 Featured Projects
+
+(Adicione seus projetos principais aqui)
+
+### IoT Monitoring API
+API for receiving, storing, and querying sensor data.
+
+Tech:
+Python • FastAPI • PostgreSQL • Docker
+
+---
+
+### Smart Sensor System
+End-to-end IoT monitoring system using ESP32 and backend services.
+
+Tech:
+ESP32 • MQTT • Python • REST API
+
+---
+
+### Sensor Dashboard
+Simple dashboard for visualizing sensor data.
+
+Tech:
+Python • Streamlit • API Integration
+
+---
+
+## 📊 GitHub Stats
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-srf&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Contact
+
+LinkedIn:
+https://www.linkedin.com/rodrigo-srf
+
+GitHub:
+https://github.com/rodrigo-srf
