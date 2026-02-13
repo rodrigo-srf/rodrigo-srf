@@ -47,7 +47,7 @@ Here are some of the projects I’ve developed:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/rodrigo-srf
+- E-mail: rodrigoserafimfsilva@gmail.com
 
 ---
 
