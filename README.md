@@ -27,7 +27,6 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 ### Aplicações e Sistemas
 - [SOS Pets](https://github.com/rodrigo-srf/SOS-PETS)
-- 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
