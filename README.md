@@ -1,54 +1,54 @@
-<!-- Título -->
-<h1 align="center">Olá 👋, eu sou Rodrigo</h1>
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
 
 <p align="center">
-Desenvolvedor interessado em tecnologia, automação, IoT e Inteligência Artificial.
-Gosto de construir projetos práticos que conectem software e mundo real.
+Developer interested in technology, automation, IoT, and Artificial Intelligence.
+I enjoy building practical projects that connect software to the real world.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💻 Interessado em desenvolvimento de software e projetos com IA e IoT
-- 🧠 Sempre aprendendo novas tecnologias
-- 🛠️ Gosto de transformar ideias em soluções práticas
-- 🌎 Brasil
+- 💻 Interested in software development and technology projects
+- 🧠 Always learning new technologies
+- 🛠️ I enjoy turning ideas into practical solutions
 
 ---
 
-## 📂 Projetos no GitHub
+## 📂 GitHub Projects
 
-Aqui estão alguns dos projetos que desenvolvi:
+Here are some of the projects I’ve developed:
 
-### Inteligência Artificial
-- [Projeto Capacitação IA — Ciclo 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
-- [Projeto Capacitação IA — Ciclo 2](https://github.com/rodrigo-srf/Projeto_Capacitacao_IA_Ciclo_2)
+### Artificial Intelligence
+- [AI Training Project — Cycle 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
+- [AI Training Project — Cycle 2](https://github.com/rodrigo-srf/Projeto_Capacitacao_IA_Ciclo_2)
 
-### Aplicações e Sistemas
+### Applications and Systems
 - [SOS Pets](https://github.com/rodrigo-srf/SOS-PETS)
+
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
 
-**Linguagens**
+**Languages**
 - Python
 - C/C++
 - JavaScript
 - SQL
 
-**Ferramentas**
-- Git e GitHub
+**Tools**
+- Git and GitHub
 - VS Code
 - Jupyter Notebook
 - ESP32 / IoT
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - GitHub: https://github.com/rodrigo-srf
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thanks for visiting my profile!
