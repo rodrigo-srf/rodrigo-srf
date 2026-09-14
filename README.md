@@ -15,16 +15,22 @@ I am currently focused on remote software engineering opportunities involving **
 - **IoT & Embedded Systems** with ESP32, MQTT and sensor-based applications
 - **Data** with SQL, MySQL and structured data pipelines
 
-## Featured projects
+## Projetos em destaque
+
+### 🚀 [JobFit API](https://github.com/rodrigo-srf/jobfit-api)
+API backend para organização de vagas e candidaturas, com **FastAPI, SQLAlchemy, PostgreSQL, JWT, Docker, pytest e GitHub Actions**. O sistema permite cadastrar oportunidades, acompanhar candidaturas e calcular um índice de compatibilidade entre o perfil técnico do usuário e os requisitos da vaga.
 
 ### 🐾 [S.O.S Pets](https://github.com/rodrigo-srf/SOS-PETS)
-AI-powered animal adoption assistant built with **Python, Streamlit and Amazon Bedrock**. The application combines conversational AI, image-based workflows, authentication middleware and cloud integration to help generate adoption content.
+Assistente para adoção animal desenvolvido com **Python, Streamlit e Amazon Bedrock**. O projeto combina IA conversacional, fluxos baseados em imagens, autenticação e integração com serviços AWS para auxiliar na criação de conteúdo para adoção.
 
-### 🤖 [AI Training Project — Cycle 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
-Applied AI project developed during an Artificial Intelligence training program, with emphasis on practical experimentation and MVP development.
+### 🤖 [Projeto de Capacitação em IA — Ciclo 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
+Projeto aplicado de Machine Learning desenvolvido em colaboração, envolvendo análise e pré-processamento de dados, experimentação de modelos, rastreamento com **MLflow**, balanceamento de dados e construção de pipelines de classificação.
 
-### 🧠 [AI Training Project — Cycle 2](https://github.com/rodrigo-srf/Projeto_Capacitacao_IA_Ciclo_2)
-Earlier applied AI work focused on learning, experimentation and implementation of intelligent systems.
+### 🧠 [Projeto de Capacitação em IA — Ciclo 2](https://github.com/rodrigo-srf/Projeto_Capacitacao_IA_Ciclo_2)
+Projeto de Inteligência Artificial com foco em análise de dados, treinamento e avaliação de modelos, organização de experimentos e uso de ferramentas para acompanhamento do ciclo de Machine Learning.
+
+### 🌐 Projetos de IoT — Ciclos 1 e 2
+Projetos colaborativos envolvendo **ESP32, MQTT, aquisição de dados, sensores e integração entre dispositivos embarcados e aplicações de software**.
 
 ## Current research
 
@@ -36,10 +42,10 @@ Areas involved include F0, jitter, shimmer, HNR, MFCCs, classification models an
 
 **Languages:** Python · C/C++ · JavaScript · SQL  
 **AI / Data:** Machine Learning · Generative AI · Pandas · NumPy  
-**Backend:** REST APIs · Node.js · MySQL  
+**Backend:** FastAPI · REST APIs · Node.js · PostgreSQL · MySQL  
 **Cloud:** AWS · Amazon Bedrock · EC2 · Oracle Cloud  
 **IoT / Embedded:** ESP32 · MQTT · Sensors  
-**Tools:** Git · GitHub · Linux · Jupyter
+**Tools:** Git · GitHub · Docker · Linux · Jupyter
 
 ## Certifications
 
