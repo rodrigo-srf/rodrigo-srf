@@ -17,8 +17,8 @@ I am currently focused on remote software engineering opportunities involving **
 
 ## Projetos em destaque
 
-### 🚀 [JobFit API](https://github.com/rodrigo-srf/jobfit-api)
-API backend para organização de vagas e candidaturas, com **FastAPI, SQLAlchemy, PostgreSQL, JWT, Docker, pytest e GitHub Actions**. O sistema permite cadastrar oportunidades, acompanhar candidaturas e calcular um índice de compatibilidade entre o perfil técnico do usuário e os requisitos da vaga.
+### 🚀 [JobFit](https://github.com/rodrigo-srf/jobfit-api)
+Aplicação full-stack para organização de vagas e candidaturas, com **FastAPI, SQLAlchemy, PostgreSQL, JWT, Docker, pytest e GitHub Actions**. Inclui dashboard web integrado à API, perfil técnico, pipeline de candidaturas, estatísticas e um mecanismo explicável de compatibilidade que mostra skills atendidas e skills ausentes em cada vaga.
 
 ### 🐾 [S.O.S Pets](https://github.com/rodrigo-srf/SOS-PETS)
 Assistente para adoção animal desenvolvido com **Python, Streamlit e Amazon Bedrock**. O projeto combina IA conversacional, fluxos baseados em imagens, autenticação e integração com serviços AWS para auxiliar na criação de conteúdo para adoção.
