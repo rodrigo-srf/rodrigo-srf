@@ -1,51 +1,45 @@
 # Hi, I'm Rodrigo Serafim 👋
 
-**Python Developer | AI/ML | Automation | IoT | Cloud**
+**DevOps & Cloud | Python | AWS | Docker | CI/CD | Industrial IoT**
 
-Industrial Automation Technologist and M.Sc. candidate in Electrical Engineering, building software and intelligent systems with Python, APIs, cloud services, IoT and applied AI.
+Industrial Automation Technologist and M.Sc. candidate in Electrical Engineering, building cloud, backend and automation solutions with a strong focus on **DevOps, AWS, Python and infrastructure automation**.
 
-I am currently focused on remote software engineering opportunities involving **Python, backend development, AI/ML, automation and data-driven systems**.
+My background in automation and IoT gives me a practical engineering perspective on software, infrastructure and distributed systems.
 
-## What I work with
+## Featured projects
 
-- **Python** for automation, data processing, APIs and AI applications
-- **AI / ML** for applied research, generative AI and model-driven systems
-- **Backend & APIs** with REST integrations, Node.js and relational databases
-- **Cloud** with AWS and Oracle Cloud
-- **IoT & Embedded Systems** with ESP32, MQTT and sensor-based applications
-- **Data** with SQL, MySQL and structured data pipelines
+### ☁️ [AWS DevOps Infrastructure](https://github.com/rodrigo-srf/aws-devops-infrastructure)
+Infrastructure-as-Code project focused on **Terraform, AWS, Docker and GitHub Actions**. Includes modular VPC/ECR/EC2 infrastructure, S3 remote state, OIDC-based deployment, SSM access, Trivy scans and automated CI validation.
 
-## Projetos em destaque
+### ⚙️ [JobFit API](https://github.com/rodrigo-srf/jobfit-api)
+Backend and DevOps project built with **FastAPI, PostgreSQL, Docker, Pytest and GitHub Actions**. The CI pipeline includes linting, coverage, dependency auditing, container vulnerability scanning and smoke tests.
 
-### 🚀 [JobFit](https://github.com/rodrigo-srf/jobfit-api)
-Aplicação full-stack para organização de vagas e candidaturas, com **FastAPI, SQLAlchemy, PostgreSQL, JWT, Docker, pytest e GitHub Actions**. Inclui dashboard web integrado à API, perfil técnico, pipeline de candidaturas, estatísticas e um mecanismo explicável de compatibilidade que mostra skills atendidas e skills ausentes em cada vaga.
+### 🏭 [Industrial IoT Monitoring](https://github.com/rodrigo-srf/industrial-iot-monitoring)
+Industrial monitoring platform combining **MQTT, FastAPI, PostgreSQL, Docker, Prometheus and Grafana**. Includes simulated machine telemetry, alarms, observability, health checks and full-stack CI validation.
 
 ### 🐾 [S.O.S Pets](https://github.com/rodrigo-srf/SOS-PETS)
-Assistente para adoção animal desenvolvido com **Python, Streamlit e Amazon Bedrock**. O projeto combina IA conversacional, fluxos baseados em imagens, autenticação e integração com serviços AWS para auxiliar na criação de conteúdo para adoção.
+AI-powered animal adoption assistant developed with **Python, Streamlit and Amazon Bedrock**, combining conversational AI, multimodal flows and AWS services.
 
-### 🤖 [Projeto de Capacitação em IA — Ciclo 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
-Projeto aplicado de Machine Learning desenvolvido em colaboração, envolvendo análise e pré-processamento de dados, experimentação de modelos, rastreamento com **MLflow**, balanceamento de dados e construção de pipelines de classificação.
+### 🤖 [Machine Learning — Cycle 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
+Applied machine-learning project with **Python, scikit-learn, MLflow and data pipelines**, covering preprocessing, experimentation, model evaluation and classification.
 
-### 🧠 [Projeto de Capacitação em IA — Ciclo 2](https://github.com/rodrigo-srf/Projeto_Capacitacao_IA_Ciclo_2)
-Projeto de Inteligência Artificial com foco em análise de dados, treinamento e avaliação de modelos, organização de experimentos e uso de ferramentas para acompanhamento do ciclo de Machine Learning.
+## DevOps & Cloud stack
 
-### 🌐 Projetos de IoT — Ciclos 1 e 2
-Projetos colaborativos envolvendo **ESP32, MQTT, aquisição de dados, sensores e integração entre dispositivos embarcados e aplicações de software**.
+**Cloud:** AWS · EC2 · ECR · S3 · IAM · Systems Manager · Amazon Bedrock  
+**Infrastructure as Code:** Terraform  
+**Containers:** Docker · Docker Compose · Nginx  
+**CI/CD:** GitHub Actions  
+**Observability:** Prometheus · Grafana  
+**Security & Quality:** Trivy · pip-audit · Ruff · Pytest · Coverage  
+**Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL  
+**IoT & Automation:** MQTT · ESP32 · Industrial Automation  
+**Systems:** Linux · Git · REST APIs
 
 ## Current research
 
-My master's research explores an **embedded system for analyzing vocal biomarkers associated with depressive symptoms**, combining digital signal processing, acoustic feature extraction and machine learning on resource-constrained hardware.
+My M.Sc. research in Electrical Engineering investigates **machine-learning analysis of vocal biomarkers associated with depressive symptoms** using speech data from the **DAIC-WOZ dataset**, with embedded evaluation on the **ESP32-S3**.
 
-Areas involved include F0, jitter, shimmer, HNR, MFCCs, classification models and embedded inference.
-
-## Tech stack
-
-**Languages:** Python · C/C++ · JavaScript · SQL  
-**AI / Data:** Machine Learning · Generative AI · Pandas · NumPy  
-**Backend:** FastAPI · REST APIs · Node.js · PostgreSQL · MySQL  
-**Cloud:** AWS · Amazon Bedrock · EC2 · Oracle Cloud  
-**IoT / Embedded:** ESP32 · MQTT · Sensors  
-**Tools:** Git · GitHub · Docker · Linux · Jupyter
+The work focuses on speech features and machine-learning models under embedded-resource constraints.
 
 ## Certifications
 
@@ -67,10 +61,10 @@ Areas involved include F0, jitter, shimmer, HNR, MFCCs, classification models an
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/rodrigo-srf
-- GitHub: https://github.com/rodrigo-srf
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-srf/)
+- [GitHub](https://github.com/rodrigo-srf)
 - Email: rodrigoserafimfsilva@gmail.com
 
 ---
 
-Open to **remote Python, backend, AI/ML, automation and IoT opportunities**.
+Open to opportunities in **DevOps, Cloud, Python backend, infrastructure automation and Industrial IoT**.
