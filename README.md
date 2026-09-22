@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Serafim 👋
 
-**DevOps & Cloud | Python | AWS | Docker | CI/CD | Industrial IoT**
+**DevOps & Cloud | CI/CD | QA Automation | Python | AWS | Industrial IoT**
 
 Industrial Automation Technologist and M.Sc. candidate in Electrical Engineering, building cloud, backend and automation solutions with a strong focus on **DevOps, AWS, Python and infrastructure automation**.
 
@@ -23,14 +23,21 @@ AI-powered animal adoption assistant developed with **Python, Streamlit and Amaz
 ### 🤖 [Machine Learning — Cycle 3](https://github.com/rodrigo-srf/Project-Capacitacao-IA-Ciclo-3)
 Applied machine-learning project with **Python, scikit-learn, MLflow and data pipelines**, covering preprocessing, experimentation, model evaluation and classification.
 
-## DevOps & Cloud stack
+## Current training
+
+I'm currently participating in the **QA Coders training program**, following the **DevOps track** and working with software quality, testing practices, automation and delivery pipelines.
+
+I treat QA as part of the delivery lifecycle: tests, quality gates and validation should be integrated into CI/CD rather than handled as a separate final step.
+
+## DevOps, Cloud & Quality stack
 
 **Cloud:** AWS · EC2 · ECR · S3 · IAM · Systems Manager · Amazon Bedrock  
 **Infrastructure as Code:** Terraform  
 **Containers:** Docker · Docker Compose · Nginx  
 **CI/CD:** GitHub Actions  
 **Observability:** Prometheus · Grafana  
-**Security & Quality:** Trivy · pip-audit · Ruff · Pytest · Coverage  
+**Quality & Testing:** Pytest · API testing · Coverage · Ruff · CI quality gates  
+**Security:** Trivy · pip-audit  
 **Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL  
 **IoT & Automation:** MQTT · ESP32 · Industrial Automation  
 **Systems:** Linux · Git · REST APIs
