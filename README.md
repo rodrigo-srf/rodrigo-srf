@@ -17,6 +17,9 @@ Backend and DevOps project built with **FastAPI, PostgreSQL, Docker, Pytest and 
 ### 🏭 [Industrial IoT Monitoring](https://github.com/rodrigo-srf/industrial-iot-monitoring)
 Industrial monitoring platform combining **MQTT, FastAPI, PostgreSQL, Docker, Prometheus and Grafana**. Includes simulated machine telemetry, alarms, observability, health checks and full-stack CI validation.
 
+### 🧪 [QA Automation Lab](https://github.com/rodrigo-srf/qa-automation-lab)
+QA engineering project with **Pytest, Playwright, API testing, browser E2E automation, Docker, Trivy and GitHub Actions**. Includes positive/negative scenarios, regression suites, coverage, HTML reports, traceability and CI quality gates.
+
 ### 🐾 [S.O.S Pets](https://github.com/rodrigo-srf/SOS-PETS)
 AI-powered animal adoption assistant developed with **Python, Streamlit and Amazon Bedrock**, combining conversational AI, multimodal flows and AWS services.
 
@@ -36,7 +39,7 @@ I treat QA as part of the delivery lifecycle: tests, quality gates and validatio
 **Containers:** Docker · Docker Compose · Nginx  
 **CI/CD:** GitHub Actions  
 **Observability:** Prometheus · Grafana  
-**Quality & Testing:** Pytest · API testing · Coverage · Ruff · CI quality gates  
+**Quality & Testing:** Pytest · Playwright · API testing · E2E testing · Coverage · Ruff · CI quality gates  
 **Security:** Trivy · pip-audit  
 **Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL  
 **IoT & Automation:** MQTT · ESP32 · Industrial Automation  
@@ -74,4 +77,4 @@ The work focuses on speech features and machine-learning models under embedded-r
 
 ---
 
-Open to opportunities in **DevOps, Cloud, Python backend, infrastructure automation and Industrial IoT**.
+Open to opportunities in **DevOps, Cloud, QA Automation, Python backend, infrastructure automation and Industrial IoT**.
